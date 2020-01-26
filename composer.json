@@ -3,10 +3,10 @@
   "description": "Yii2 widget for fullcalendar scheduler module",
   "require": {
     "php": ">=5.5.0",
-    "yiisoft/yii2": ">=2.0.9",
-    "yiisoft/yii2-jui": ">=2.0.6",
-    "bower-asset/fullcalendar": "v3.8.0",
-    "bower-asset/fullcalendar-scheduler": "1.9.1"
+    "yiisoft/yii2": "*",
+    "yiisoft/yii2-jui": "*",
+    "bower-asset/fullcalendar": "*",
+    "bower-asset/fullcalendar-scheduler": "*"
   },
   "keywords": [
     "fullcalendar-scheduler",
