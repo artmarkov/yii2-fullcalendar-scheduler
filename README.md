@@ -1,10 +1,10 @@
 # Yii2 fullcalendar scheduler component
 
-[![Latest Stable Version](https://poser.pugx.org/edofre/yii2-fullcalendar-scheduler/v/stable)](https://packagist.org/packages/edofre/yii2-fullcalendar-scheduler)
-[![Total Downloads](https://poser.pugx.org/edofre/yii2-fullcalendar-scheduler/downloads)](https://packagist.org/packages/edofre/yii2-fullcalendar-scheduler)
-[![Latest Unstable Version](https://poser.pugx.org/edofre/yii2-fullcalendar-scheduler/v/unstable)](https://packagist.org/packages/edofre/yii2-fullcalendar-scheduler)
-[![License](https://poser.pugx.org/edofre/yii2-fullcalendar-scheduler/license)](https://packagist.org/packages/edofre/yii2-fullcalendar-scheduler)
-[![composer.lock](https://poser.pugx.org/edofre/yii2-fullcalendar-scheduler/composerlock)](https://packagist.org/packages/edofre/yii2-fullcalendar-scheduler)
+[![Latest Stable Version](https://poser.pugx.org/artsoft/yii2-fullcalendar-scheduler/v/stable)](https://packagist.org/packages/artsoft/yii2-fullcalendar-scheduler)
+[![Total Downloads](https://poser.pugx.org/artsoft/yii2-fullcalendar-scheduler/downloads)](https://packagist.org/packages/artsoft/yii2-fullcalendar-scheduler)
+[![Latest Unstable Version](https://poser.pugx.org/artsoft/yii2-fullcalendar-scheduler/v/unstable)](https://packagist.org/packages/artsoft/yii2-fullcalendar-scheduler)
+[![License](https://poser.pugx.org/artsoft/yii2-fullcalendar-scheduler/license)](https://packagist.org/packages/artsoft/yii2-fullcalendar-scheduler)
+[![composer.lock](https://poser.pugx.org/artsoft/yii2-fullcalendar-scheduler/composerlock)](https://packagist.org/packages/artsoft/yii2-fullcalendar-scheduler)
 
 ## Installation
 
@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```
-$ php composer.phar require edofre/yii2-fullcalendar-scheduler "V1.1.12"
+$ php composer.phar require artsoft/yii2-fullcalendar-scheduler "V1.1.12"
 ```
 
 or add
 
 ```
-"edofre/yii2-fullcalendar-scheduler": "V1.1.12"
+"artsoft/yii2-fullcalendar-scheduler": "V1.1.12"
 ```
 
 to the ```require``` section of your `composer.json` file.
@@ -30,7 +30,7 @@ See the demos/ folder for all the examples.
 
 ### Simple usage with array data
 ```php
-<?= \edofre\fullcalendarscheduler\FullcalendarScheduler::widget([
+<?= \artsoft\fullcalendarscheduler\FullcalendarScheduler::widget([
 	'header'        => [
 		'left'   => 'today prev,next',
 		'center' => 'title',
@@ -99,7 +99,7 @@ See the demos/ folder for all the examples.
 
 ### Simple use with JSON data from controller actions
 ```php
-<?= \edofre\fullcalendarscheduler\FullcalendarScheduler::widget([
+<?= \artsoft\fullcalendarscheduler\FullcalendarScheduler::widget([
 	'header'        => [
 		'left'   => 'today prev,next',
 		'center' => 'title',

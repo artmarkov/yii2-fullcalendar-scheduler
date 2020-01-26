@@ -1,4 +1,4 @@
-<?= \edofre\fullcalendarscheduler\FullcalendarScheduler::widget([
+<?= \artsoft\fullcalendarscheduler\FullcalendarScheduler::widget([
 	'header'        => [
 		'left'   => 'prev,next today',
 		'center' => 'title',

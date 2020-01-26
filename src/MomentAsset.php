@@ -1,10 +1,10 @@
 <?php
 
-namespace edofre\fullcalendarscheduler;
+namespace artsoft\fullcalendarscheduler;
 
 /**
  * Class MomentAsset
- * @package edofre\fullcalendarscheduler
+ * @package artsoft\fullcalendarscheduler
  */
 class MomentAsset extends \yii\web\AssetBundle
 {

@@ -1,8 +1,8 @@
 <?php
 namespace frontend\controllers;
 
-use edofre\fullcalendarscheduler\models\Event;
-use edofre\fullcalendarscheduler\models\Resource;
+use artsoft\fullcalendarscheduler\models\Event;
+use artsoft\fullcalendarscheduler\models\Resource;
 use Yii;
 use yii\web\Controller;
 

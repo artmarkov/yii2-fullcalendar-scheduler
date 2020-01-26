@@ -1,10 +1,10 @@
 <?php
 
-namespace edofre\fullcalendarscheduler\models;
+namespace artsoft\fullcalendarscheduler\models;
 
 /**
  * Class Resource
- * @package edofre\fullcalendarscheduler\models
+ * @package artsoft\fullcalendarscheduler\models
  */
 class Resource extends CalendarModel
 {

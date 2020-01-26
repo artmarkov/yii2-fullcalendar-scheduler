@@ -15,13 +15,13 @@
     "event",
     "calendar"
   ],
-  "homepage": "https://github.com/edofre/yii2-fullcalendar-scheduler",
+  "homepage": "https://github.com/artsoft/yii2-fullcalendar-scheduler",
   "type": "yii2-extension",
   "license": "MIT",
   "authors": [
     {
       "name": "Edo Freriks",
-      "email": "edofre@gmail.com"
+      "email": "artsoft@gmail.com"
     }
   ],
   "autoload": {

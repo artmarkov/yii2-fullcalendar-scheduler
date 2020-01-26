@@ -29,7 +29,7 @@ $this->registerJs("
 ", \yii\web\View::POS_END);
 ?>
 
-<?= \edofre\fullcalendarscheduler\FullcalendarScheduler::widget([
+<?= \artsoft\fullcalendarscheduler\FullcalendarScheduler::widget([
     'header'        => [
         'left'   => 'today prev,next',
         'center' => 'title',

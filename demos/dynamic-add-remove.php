@@ -1,4 +1,4 @@
-<?= \edofre\fullcalendarscheduler\FullcalendarScheduler::widget([
+<?= \artsoft\fullcalendarscheduler\FullcalendarScheduler::widget([
     'header'        => [
         'left'   => 'promptResource today prev,next',
         'center' => 'title',
